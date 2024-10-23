@@ -1,7 +1,7 @@
 body {
     background: #000000;
-      color: #00000;
-  }
+}
+  
   h1 {
     color: white;
     font-family: "Michroma", sans-serif;
@@ -10,16 +10,17 @@ body {
  } 
 
  h2 {
-    font-family: "IBM Plex Mono", serif;
-    font-weight: 700;
-    font-style: normal;
+   color: white;
+   font-family: "IBM Plex Mono", serif;
+   font-weight: 700;
+   font-style: normal;
  } 
  
  
  p {
-    color: white;
-    font-family: "IBM Plex Mono", serif;
-    font-weight: 500;
-    font-style: normal;
+   color: white;
+   font-family: "IBM Plex Mono", serif;
+   font-weight: 500;
+   font-style: normal;
  }
  
