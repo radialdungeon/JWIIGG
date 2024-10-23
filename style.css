@@ -8,6 +8,7 @@ body {
     font-weight: 700;
     font-style: normal;
     font-size: 2.5em; 
+    line-height: 0.4em;
  } 
  
 
@@ -34,4 +35,9 @@ i {
    font-style: normal;
    font-size: 1.5em; 
 }
+
+.text {
+   display: inline-block;
+   vertical-align: top;
+ }
  
