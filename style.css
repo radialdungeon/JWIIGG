@@ -2,26 +2,18 @@ body {
     background: #000000;
 }
   
-  h1 {
+  h2 {
     color: white;
     font-family: "Michroma", 'Arial Narrow Bold';
     font-weight: 700;
     font-style: normal;
     font-size: 2.5em; 
  } 
+ 
 
- h2 {
-   color: white;
-   font-family: "IBM Plex Mono", 'Arial Narrow Bold';
-   font-weight: 700;
-   font-style: normal;
-   font-size: 2em; 
- } 
- 
- 
  p {
    color: white;
-   font-family: "IBM Plex Mono", 'Arial Narrow Bold';
+   font-family: "Michroma", 'Arial Narrow Bold';
    font-weight: 500;
    font-style: normal;
    font-size: 1.5em; 
@@ -29,7 +21,7 @@ body {
 
 a {
    color: white;
-   font-family: "IBM Plex Mono", 'Arial Narrow Bold';
+   font-family: "Michroma", 'Arial Narrow Bold';
    font-weight: 500;
    font-style: normal;
    font-size: 1.5em; 
