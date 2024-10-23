@@ -6,7 +6,8 @@ body {
     color: white;
     font-family: "Michroma", 'Arial Narrow Bold';
     font-weight: 700;
-    font-style: normal;   
+    font-style: normal;
+    font-size: 2.5em; 
  } 
 
  h2 {
@@ -14,6 +15,7 @@ body {
    font-family: "IBM Plex Mono", 'Arial Narrow Bold';
    font-weight: 700;
    font-style: normal;
+   font-size: 2em; 
  } 
  
  
@@ -22,6 +24,7 @@ body {
    font-family: "IBM Plex Mono", 'Arial Narrow Bold';
    font-weight: 500;
    font-style: normal;
+   font-size: 1.5em; 
  }
 
 a {
@@ -29,12 +32,14 @@ a {
    font-family: "IBM Plex Mono", 'Arial Narrow Bold';
    font-weight: 500;
    font-style: normal;
+   font-size: 1.5em; 
 }
 
 i {
    color: rgb(224, 11, 11);
-   font-family: 'Arial Narrow Bold';
+   font-family: "Michroma", "IBM Plex Mono", 'Arial Narrow Bold';
    font-weight: 500;
-   font-style: italic;
+   font-style: normal;
+   font-size: 1.5em; 
 }
  
