@@ -1,11 +1,11 @@
 body {
-    background: #000000;
+    background: #e2ad0d;
 }
   
   h1 {
     color: white;
     font-family: "Michroma", 'Arial Narrow Bold';
-    font-weight: 400;
+    font-weight: 700;
     font-style: normal;   
  } 
 
@@ -23,4 +23,18 @@ body {
    font-weight: 500;
    font-style: normal;
  }
+
+a {
+   color: white;
+   font-family: "IBM Plex Mono", 'Arial Narrow Bold';
+   font-weight: 500;
+   font-style: normal;
+}
+
+i {
+   color: rgb(224, 11, 11);
+   font-family: 'Arial Narrow Bold';
+   font-weight: 500;
+   font-style: italic;
+}
  
