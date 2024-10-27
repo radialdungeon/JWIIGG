@@ -1,5 +1,5 @@
 body {
-    background: #000000;
+    background: #dddddd;
 }
 
 .image { 
@@ -15,8 +15,8 @@ h2 span{
    padding: 10px; 
    letter-spacing: 1px;
    
-   color: white;
-   font-family: "Michroma", "IBM Plex Mono", 'Arial Narrow Bold';
+   color: rgb(0, 0, 0);
+   font-family: Bold "Michroma", "IBM Plex Mono", 'Arial Narrow Bold';
    font-weight: 500;
    font-style: normal;
    font-size: 2.5em; 
@@ -25,7 +25,7 @@ h2 span{
 }
 
  p {
-   color: white;
+   color: rgb(0, 0, 0);
    font-family: "Chivo Mono", "IBM Plex Mono", 'Arial Narrow Bold';
    font-weight: 500;
    font-style: normal;
@@ -47,6 +47,13 @@ i {
    font-style: normal;
    font-size: 2em; 
 }
+
+.center {
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+   width: 50%;
+ }
 
 .imageflex { display:flex }
 .imageflexcontent { margin-left: 5px; margin-top: 0;}
