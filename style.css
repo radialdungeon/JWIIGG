@@ -44,8 +44,8 @@ i {
    color: rgb(224, 11, 11);
    font-family: "Chivo Mono", "IBM Plex Mono", 'Arial Narrow Bold';
    font-weight: 500;
-   font-style: normal;
-   font-size: 2em; 
+   font-style: italic;
+   font-size: 1em; 
 }
 
 .center {
