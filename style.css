@@ -6,9 +6,6 @@ body {
    position: relative; 
    width: 100%; /* for IE 6 */
 }
-.image1 { 
-   position: absolute; 
-}
 
 h2 span{ 
    position: absolute; 
@@ -58,6 +55,7 @@ i {
    display: block;
    margin-left: auto;
    margin-right: auto;
+   width: auto;
  }
 
 .imageflex { display:flex }
