@@ -6,6 +6,9 @@ body {
    position: relative; 
    width: 100%; /* for IE 6 */
 }
+.image1 { 
+   position: absolute; 
+}
 
 h2 span{ 
    position: absolute; 
@@ -29,7 +32,8 @@ h2 span{
    font-family: "Chivo Mono", "IBM Plex Mono", 'Arial Narrow Bold';
    font-weight: 500;
    font-style: normal;
-   font-size: 2em; 
+   font-size: 2em;
+   text-transform: uppercase;
  }
 
 a {
@@ -38,6 +42,7 @@ a {
    font-weight: 500;
    font-style: normal;
    font-size: 2em; 
+   text-transform: uppercase;
 }
 
 i {
@@ -53,7 +58,6 @@ i {
    display: block;
    margin-left: auto;
    margin-right: auto;
-   width: 300px;
  }
 
 .imageflex { display:flex }
